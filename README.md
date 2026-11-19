@@ -47,7 +47,7 @@ Halaman utama menampilkan formulir untuk menambahkan produk serta daftar produk 
 
 Ketika pengguna menekan tombol Update, data produk yang dipilih akan dimasukkan ke dalam formulir untuk dilakukan perubahan.
 
-![Form Update](screenshots/02-form-update.png)
+![Form Update](Screenshot2.png)
 
 ### 3. Proses Mengubah Data Produk
 
@@ -59,7 +59,7 @@ Pengguna dapat mengubah informasi produk, seperti nama, harga, dan foto produk.
 
 Setelah tombol Simpan Perubahan ditekan, aplikasi akan menyimpan perubahan ke database dan memperbarui tampilan katalog.
 
-![Hasil Update](screenshots/04-hasil-update.png)
+![Hasil Update](Screenshot3.png)
 
 ### 5. Konfirmasi Penghapusan Produk
 
