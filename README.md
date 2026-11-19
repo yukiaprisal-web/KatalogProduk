@@ -41,7 +41,7 @@ Aplikasi ini digunakan untuk mengelola data produk melalui antarmuka grafis (GUI
 
 Halaman utama menampilkan formulir untuk menambahkan produk serta daftar produk yang sudah tersimpan dalam database.
 
-![Tampilan Utama](screenshots/01-tampilan-katalog.png)
+![Tampilan Utama](Screenshot 2026-11-19 203210.png)
 
 ### 2. Form Update Produk
 
