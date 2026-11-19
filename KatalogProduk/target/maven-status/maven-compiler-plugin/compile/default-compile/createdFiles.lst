@@ -1,0 +1,5 @@
+model\Produk.class
+controller\KatalogController.class
+data\ProdukRepository.class
+db\Database.class
+main\MainApp.class
