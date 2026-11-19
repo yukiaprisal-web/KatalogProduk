@@ -65,7 +65,7 @@ Setelah tombol Simpan Perubahan ditekan, aplikasi akan menyimpan perubahan ke da
 
 Sebelum menghapus produk, aplikasi menampilkan dialog konfirmasi untuk memastikan pengguna benar-benar ingin menghapus data tersebut.
 
-![Konfirmasi Delete](screenshots/05-konfirmasi-delete.png)
+![Konfirmasi Delete](Screenshot5.png)
 
 ### 6. Hasil Penghapusan Produk
 
