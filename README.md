@@ -53,7 +53,7 @@ Ketika pengguna menekan tombol Update, data produk yang dipilih akan dimasukkan 
 
 Pengguna dapat mengubah informasi produk, seperti nama, harga, dan foto produk.
 
-![Proses Edit Produk](screenshots/03-edit-produk.png)
+![Proses Edit Produk](Screenshot2.png)
 
 ### 4. Hasil Update Produk
 
@@ -71,7 +71,7 @@ Sebelum menghapus produk, aplikasi menampilkan dialog konfirmasi untuk memastika
 
 Setelah pengguna menyetujui penghapusan, produk akan dihapus dari database dan daftar katalog diperbarui.
 
-![Hasil Delete](screenshots/06-hasil-delete.png)
+![Hasil Delete](Screenshot6.png)
 
 ## Struktur Project
 
